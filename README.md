@@ -1,16 +1,96 @@
-# React + Vite
+⚔️ PRO Typing Battle Game — Cyberpunk Arena
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time typing combat game where your speed = your power.
+Type fast, strike hard, and defeat your opponent in a neon cyberpunk battlefield.
 
-Currently, two official plugins are available:
+🎮 Features
+⚔️ Combat System
+🧠 Type words to deal damage to enemy HP
+❌ Mistakes cause self-damage penalty
+🤖 Smart Bot AI with difficulty levels:
+Easy
+Medium
+Hard
+📊 Real-time animated HP bars (Green → Orange → Red)
+💊 Power-Up System
+Key	Power	Effect
+1	🛡️ Shield	Blocks next enemy attack
+2	⚡ Boost	2× damage on next word
+3	💊 Heal	+15 HP instantly
+4	🌀 Slow	Freeze enemy for 5 seconds
+📊 Live Stats
+⏱️ Real-time WPM tracker
+🎯 Accuracy calculation
+🔤 Words typed counter
+🕒 Game timer
+💥 Floating damage animations
+📜 Combat log feed
+⚡ Screen flash effects on damage
+🎨 UI / Design
+🌆 Cyberpunk neon theme
+🔤 Fonts: Orbitron + Share Tech Mono
+🟩 Animated grid background
+✨ Glow effects & CSS animations
+⏳ 3-2-1 countdown system
+🏆 Result screen (Win / Lose tracker)
+🎮 Game Modes
+⚔️ VS Bot
+🔥 Hardcore Mode
+🧟 Survival Mode
+🚀 Tech Stack
+⚛️ React (Frontend)
+🎨 CSS (Animations + Styling)
+🧠 JavaScript (Game Logic)
+🛠️ Installation & Setup
+# Clone the repository
+git clone https://github.com/your-username/typing-battle-game.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Navigate into project
+cd typing-battle-game
 
-## React Compiler
+# Install dependencies
+npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Start development server
+npm start
+🗺️ Roadmap
+✅ Phase 1 (Completed)
+Core combat system
+Power-ups
+Bot AI
+UI + animations
+🔜 Phase 2
+🌐 Real-time multiplayer (Socket.io + Node.js)
+🔜 Phase 3
+🗄️ MongoDB integration
+📊 Leaderboards
+🔜 Phase 4
+🔐 Firebase Authentication
+👤 User profiles
+🔜 Phase 5
+🚀 Deployment (Vercel / Railway)
+🎯 Future Improvements
+🧠 AI adaptive difficulty
+🎧 Sound effects & background music
+🎮 Controller support
+📱 Mobile responsiveness
+🤝 Contributing
 
-## Expanding the ESLint configuration
+Pull requests are welcome!
+If you have ideas to improve gameplay or UI, feel free to fork and contribute.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📜 License
+
+This project is licensed under the MIT License.
+
+💥 Author
+
+Made with ⚡ and caffeine by Archana Kumari
+
+⭐ Support
+
+If you like this project:
+
+⭐ Star the repo
+🍴 Fork it
+🚀 Share with friends
