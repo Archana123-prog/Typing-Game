@@ -6,9 +6,13 @@ A real-time typing combat game where your speed = your power.
 Type fast, strike hard, and defeat your opponent in a neon cyberpunk battlefield.
 
 🎮 Features
+
 ⚔️ Combat System
+
 🧠 Type words to deal damage to enemy HP
+
 ❌ Mistakes cause self-damage penalty
+
 🤖 Smart Bot AI with difficulty levels:
 Easy
 Medium
