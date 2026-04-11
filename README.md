@@ -39,6 +39,13 @@
 * ✨ Glow effects & CSS animations
 * ⏳ 3-2-1 countdown system
 * 🏆 Result screen (Win / Lose tracker)
+<img width="1919" height="924" alt="Screenshot 2026-04-11 225348" src="https://github.com/user-attachments/assets/ce66c904-d4cc-4ba8-a0fc-c735cfcd5699" />
+<img width="1918" height="920" alt="Screenshot 2026-04-11 225409" src="https://github.com/user-attachments/assets/c0aff09a-0453-4c8d-ac32-ea65002e7abf" />
+<img width="1919" height="902" alt="Screenshot 2026-04-11 225442" src="https://github.com/user-attachments/assets/245df930-a7bf-4077-b1bc-d9c7b9dc32fb" />
+<img width="1919" height="922" alt="Screenshot 2026-04-11 225500" src="https://github.com/user-attachments/assets/16cc2619-3bdc-4fd3-b96e-07566fa24158" />
+<img width="1918" height="924" alt="Screenshot 2026-04-11 225622" src="https://github.com/user-attachments/assets/26f0b0aa-d44b-46dc-9074-0fdb53087061" />
+<img width="1919" height="917" alt="Screenshot 2026-04-11 225732" src="https://github.com/user-attachments/assets/e3b36f4a-ed29-41dc-b71f-4ae80bcfe370" />
+<img width="1275" height="618" alt="image" src="https://github.com/user-attachments/assets/623b07ad-a3a4-4a4a-ad86-2185a0dd192d" />
 
 ### 🎮 Game Modes
 * ⚔️ VS Bot
